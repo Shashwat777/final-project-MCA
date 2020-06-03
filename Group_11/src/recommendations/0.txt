@@ -1,0 +1,45 @@
+0)   file:1.jpg  Recommendation: Increase the value of col 12 and  decrease the values of col 9
+ 
+ 
+1)   file:2.jpg  Recommendation: Decrease the value of coloumn 12 and 9
+ 
+ 
+2)   file:3.jpg  Recommendation: Decrease the value of coloumn 12 and 9
+ 
+ 
+3)   file:4.jpg  Recommendation: Increase the value of col 12 and 9
+ 
+ 
+4)   file:5.jpg  Recommendation: Decrease the value of col 12 and increase the value of col 9
+ 
+ 
+0)   file:1.jpg  Recommendation: Increase the value of col 12 and  decrease the values of col 9
+ 
+ 
+1)   file:2.jpg  Recommendation: Decrease the value of coloumn 12 and 9
+ 
+ 
+2)   file:3.jpg  Recommendation: Decrease the value of coloumn 12 and 9
+ 
+ 
+3)   file:4.jpg  Recommendation: Increase the value of col 12 and 9
+ 
+ 
+4)   file:5.jpg  Recommendation: Decrease the value of col 12 and increase the value of col 9
+ 
+ 
+0)   file:1.jpg  Recommendation: Increase the value of col 12 and  decrease the values of col 9
+ 
+ 
+1)   file:2.jpg  Recommendation: Decrease the value of coloumn 12 and 9
+ 
+ 
+2)   file:3.jpg  Recommendation: Decrease the value of coloumn 12 and 9
+ 
+ 
+3)   file:4.jpg  Recommendation: Increase the value of col 12 and 9
+ 
+ 
+4)   file:5.jpg  Recommendation: Decrease the value of col 12 and increase the value of col 9
+ 
+ 
